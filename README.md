@@ -11,6 +11,7 @@ A curated list of platforms, tools, and resources to find data engineering and t
 | Hiring Cafe | [hiring.cafe](https://hiring.cafe/) | AI-powered job search that aggregates listings and lets you filter with natural language queries. |
 | Jack and Jill AI | [jackandjill.ai](https://www.jackandjill.ai/) | AI job matching platform that connects candidates with roles based on skills and preferences. |
 | Welyk | [recruiting.welyk.tech](https://recruiting.welyk.tech/jobs) | Recruiting platform with curated tech job listings and streamlined application flows. |
+FoundRole | [foundrole.com](https://www.foundrole.com) | Free AI job search platform with a Kanban application tracker and career tools, all in one place.
 
 ## Strategy & Career Resources
 
