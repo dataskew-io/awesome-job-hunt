@@ -17,6 +17,7 @@ A curated list of platforms, tools, and resources to find data engineering and t
 | Name | Link | Description |
 |------|------|-------------|
 | Career Ops | [github.com/santifer/career-ops](https://github.com/santifer/career-ops) | Open-source career operations framework. Systems and processes for running a structured, repeatable job search. |
+| ResumeAI | [withresumeai.com](https://withresumeai.com/) | Free ATS checker plus State of ATS 2026 (738 employers, 704 portal-verified). |
 
 ## Contributing
 
