@@ -17,6 +17,7 @@ A curated list of platforms, tools, and resources to find data engineering and t
 | Name | Link | Description |
 |------|------|-------------|
 | Career Ops | [github.com/santifer/career-ops](https://github.com/santifer/career-ops) | Open-source career operations framework. Systems and processes for running a structured, repeatable job search. |
+| JobEmerge | [jobemerge.work](https://www.jobemerge.work) | AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal. |
 
 ## Contributing
 
